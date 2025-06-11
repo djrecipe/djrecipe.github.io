@@ -13,3 +13,4 @@ The content hosted on djrecipe.github.io is to promote engineer Justin Dwayne Pi
 
 1. Navigate to root directory of this repo
 2. Run `mkdocs build`
+3. Copy all files from _site_ into the root of the repo
