@@ -1,5 +1,5 @@
 # Justin D Pierce
-![JD and Sammie](img/jd-and-sammie.jpg "Title")
+![JD and Sammie](jd-and-sammie.jpeg "Title")
 
 ## Profile Links
 
