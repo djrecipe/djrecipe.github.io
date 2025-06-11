@@ -1,4 +1,7 @@
-# Links for Justin Pierce (djrecipe)
+# Justin D Pierce
+![JD and Sammie](img/jd-and-sammie.jpg "Title")
+
+## Profile Links
 
 [GitHub profile page](https://github.com/djrecipe/)
 
@@ -6,7 +9,7 @@
 
 [Justin Pierce Resume](https://docs.google.com/document/d/1F7uhMpLxiShS_gxpvXgAdkj8mF2PzjqmyNQBI4QFT84/edit?usp=sharing)
 
-## LiveScope
+## LiveScope by Resonance Labs
 
 [Homepage](https://www.livescope.net/)
 
@@ -21,5 +24,6 @@ Real-time data acquisition / charting library under development for .NET (cross-
 [Breakdown of l33tcode problems and solutions](https://djrecipe.github.io/l33tcodes/)
 
 ## Public Speaking
+
 - [.NET Conf 2024: C++ Interoperability with .NET](https://www.youtube.com/watch?v=udIEiCAn15E)
 - [Azure AI Connect 2025: Semantic Kernel & Azure Open AI](https://www.youtube.com/live/-TjR48g_Gwo?si=kbSZyWXzEiM-fDYx&t=552)
